@@ -1,7 +1,7 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Modelam 3D`
 `2024 - Semestre 1`
 
 ## Integrantes
