@@ -21,3 +21,5 @@ Parte 1 feita pelo Enzo:
 
 Parte 2 feita pelo Gustavo:
   Escolhemos o modelo 3D do personagem juntos, instalei o plugin no Blender, configurei o modelo 3D com a dança e gravei o vídeo. 
+
+**Leia o Impostante!!!**
