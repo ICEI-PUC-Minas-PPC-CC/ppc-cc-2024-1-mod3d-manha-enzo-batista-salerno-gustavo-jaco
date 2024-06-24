@@ -1,11 +1,2 @@
-# Instruções de utilização
-
-## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+Nós compactamos o arquivo Blender em 13 partes pois o github só aceitava arquivos de no maximo 25MB e nosso arquivo 
+compactado dava 75MB, para descompactar basta selecionar os 13 arquirvos e ir na opção "Extrair para "dancadusfamozos\"".
